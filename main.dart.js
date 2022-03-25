@@ -54392,7 +54392,7 @@ h=A.a([e,s,p,new A.db(B.xt,A.a9R(A.a([q,r,o,n,m,l,A.Pm(A.a([A.mX("img/culturalpi
 i=A.aO([null,0],t.st,t.S)
 return new A.tP(new A.pT(f,g,0,B.l,new A.Ih(100,k,1/0,100),100,k),new A.db(B.aq,new A.AP(new A.XO(!0,!0,!0,h,i),k,B.a8,!1,k,!0,B.td,!1,k,4,B.b1,B.CT,k,B.an,k),k),k)}}
 A.QA.prototype={
-$0(){A.Lk("https://flutter.dev")},
+$0(){A.Lk("https://adrianomoruyi.github.io/digitips/#/home")},
 $S:0}
 A.Rv.prototype={}
 A.Cj.prototype={
